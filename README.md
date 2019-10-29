@@ -7,6 +7,6 @@
 
 <object data="https://github.com/rajshekhar7/Pong-Game-in-Assembly/blob/master/Computer%20Architecture%20Project%20Report.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/rajshekhar7/Pong-Game-in-Assembly/blob/master/Computer%20Architecture%20Project%20Report.pdf">
-        <p>Report: <a href="https://github.com/rajshekhar7/Pong-Game-in-Assembly/blob/master/Computer%20Architecture%20Project%20Report.pdf">Pong-In-Assembly</a></p>
+        <p>Report: <a href="https://github.com/rajshekhar7/Pong-Game-in-Assembly/blob/master/Computer%20Architecture%20Project%20Report.pdf">Pong-In-Assembly</a> (for pongcpu.asm)</p>
     </embed>
 </object>
